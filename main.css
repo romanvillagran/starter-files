@@ -37,6 +37,8 @@ p {
 
 
 .album-art {
+	border: 5px solid red;
+	padding: 20px;
 
 }
 
@@ -45,6 +47,8 @@ p {
 }
 
 .image-electronics, .image-stage-effects {
+	border: 2px solid red;
+	
 	
 }
 
@@ -54,10 +58,14 @@ p {
 }
 
 .track-list {
+	text-align: left;
 
 }
 
 #about-photo {
+	border: 2px solid red;
+	padding: ;
+	margin: ;
 
 }
 
@@ -68,10 +76,13 @@ p {
 
 #section-about, #section-discography, #section-equipment {
 	border: 2px solid red;
+
 	
 }
 
 
 #text-intro {
-	
+	border: 2px solid red;
+	background-color: darkgrey;
+	color: red;
 }
