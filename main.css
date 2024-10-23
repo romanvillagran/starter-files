@@ -17,6 +17,8 @@ h1, h2, h3 {
 	font-family: 'Barriecito', cursive;
 }
 
+
+
 h1 {
 	font-size: 2.5em;
 }
@@ -32,6 +34,7 @@ h3 {
 p {
 
 }
+
 
 .album-art {
 
@@ -62,8 +65,10 @@ p {
 }
 
 #section-about, #section-discography, #section-equipment {
-
+	border: 2px solid red;
+	
 }
+
 
 #text-intro {
 	
