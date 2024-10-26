@@ -6,6 +6,7 @@
 	font-family: 'Do Hyeon', sans-serif;
 */
 
+
 body {
 	background-color: black;
 	color: white;
@@ -37,7 +38,6 @@ h3 {
 
 p {
 	text-align: center;
-	text-size-adjust: 20px;
 
 }
 
@@ -96,7 +96,4 @@ p {
 	background-color: darkgrey;
 	color: red;
 	text-align: left;
-}
-#section-about {
-
 }
